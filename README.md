@@ -47,8 +47,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Java    1 hr 7 mins     █████████████████████████   99.84 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Java         1 hr 16 mins    ███████████████░░░░░░░░░░   59.80 %
+Python       21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.00 %
+JavaScript   21 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.94 %
+C++          6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Batchfile    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
