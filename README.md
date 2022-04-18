@@ -47,14 +47,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 41 mins
-
-Markdown     26 mins         ████████████████░░░░░░░░░   63.59 %
-XML          7 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.76 %
-Java         6 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
-Text         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
-OCaml        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
