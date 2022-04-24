@@ -47,7 +47,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 16 mins
+
+Java    16 mins         █████████████████████████   99.70 %
+Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
