@@ -47,10 +47,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 4 hrs 1 min
+Total Time: 4 hrs
 
-Python   4 hrs           █████████████████████████   99.65 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python   4 hrs           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
