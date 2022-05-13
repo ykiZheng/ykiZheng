@@ -47,7 +47,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 2 mins
+
+Python   2 mins          ███████████████████▒░░░░░   77.96 %
+Text     0 secs          █████▓░░░░░░░░░░░░░░░░░░░   22.04 %
 ```
 
 <!--END_SECTION:waka-->
