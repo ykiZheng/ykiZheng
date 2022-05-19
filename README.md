@@ -47,13 +47,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 12 hrs 49 mins
+Total Time: 17 hrs 55 mins
 
-Python       10 hrs 56 mins  █████████████████████▒░░░   85.00 %
-C++          45 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
-C            35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Text         29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Python       12 hrs 28 mins  █████████████████▒░░░░░░░   69.38 %
+C++          2 hrs 42 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
+C            1 hr 53 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.52 %
+Text         30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+JSON         19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
