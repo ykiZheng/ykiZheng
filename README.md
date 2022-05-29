@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 24 hrs 13 mins
+Total Time: 14 hrs 15 mins
 
-Python           13 hrs 28 mins  ██████████████░░░░░░░░░░░   55.63 %
-SQL              3 hrs 34 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
-Java             3 hrs 24 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.05 %
-C++              55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Properties       44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-C                39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Python           5 hrs 34 mins   █████████▓░░░░░░░░░░░░░░░   39.12 %
+SQL              3 hrs 33 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.94 %
+Java             2 hrs 34 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
+C++              37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+C                32 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+Markdown         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
 ```
 
 <!--END_SECTION:waka-->
