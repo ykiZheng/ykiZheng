@@ -47,14 +47,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 hrs 57 mins
+Total Time: 1 min
 
-Python     4 hrs 21 mins   ██████████████████▒░░░░░░   73.21 %
-C          54 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.21 %
-C++        25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
-Text       7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
-LLVM       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
-Makefile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+Makefile   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
