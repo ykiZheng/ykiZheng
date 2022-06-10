@@ -47,12 +47,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 5 mins
+Total Time: 4 mins
 
-SQL          2 mins          ███████████░░░░░░░░░░░░░░   43.56 %
-Makefile     1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.47 %
-Java         0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.51 %
-XML          0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
+SQL          2 mins          ██████████████▒░░░░░░░░░░   57.93 %
+Java         1 min           ██████░░░░░░░░░░░░░░░░░░░   24.59 %
+XML          0 secs          ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
 Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
