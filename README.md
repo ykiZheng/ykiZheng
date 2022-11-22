@@ -47,10 +47,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 35 mins
+Total Time: 17 mins
 
-Java    24 mins         ████████████▓░░░░░░░░░░░░   50.03 %
-Other   13 mins         ███████░░░░░░░░░░░░░░░░░░   27.34 %
+Other   13 mins         ███████████░░░░░░░░░░░░░░   43.81 %
 ```
 
 <!--END_SECTION:waka-->
