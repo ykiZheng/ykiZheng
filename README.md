@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ```text
 Total Time: 11 mins
 
-Other   13 mins         █████████████▓░░░░░░░░░░░   54.72 %
+Other        14 mins         ██████████████░░░░░░░░░░░   56.04 %
 ```
 
 <!--END_SECTION:waka-->
