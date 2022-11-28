@@ -49,7 +49,8 @@ Here are some ideas to get you started:
 ```text
 Total Time: 11 mins
 
-Other        14 mins         ██████████████░░░░░░░░░░░   56.04 %
+Python       11 mins         ███████████████████████░░   92.16 %
+Other        0 secs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
 ```
 
 <!--END_SECTION:waka-->
