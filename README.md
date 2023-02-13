@@ -47,11 +47,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 26 mins
+Total Time: 1 hr 48 mins
 
-Java    2 hrs 23 mins   ████████████████████████▒   97.84 %
-JSON    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Java   1 hr 47 mins    █████████████████████████   99.42 %
+JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->
