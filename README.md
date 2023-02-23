@@ -47,7 +47,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 8 mins
+
+CSV          4 mins          ████████████▓░░░░░░░░░░░░   50.56 %
+Git Config   2 mins          ██████░░░░░░░░░░░░░░░░░░░   23.37 %
+Markdown     1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.09 %
+Other        0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.98 %
 ```
 
 <!--END_SECTION:waka-->
