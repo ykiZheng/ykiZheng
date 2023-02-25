@@ -47,13 +47,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 9 mins
+Total Time: 2 hrs 7 mins
 
-Markdown     31 mins         ███████████▒░░░░░░░░░░░░░   45.32 %
-Python       31 mins         ███████████░░░░░░░░░░░░░░   44.54 %
-CSV          4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
-Git Config   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+Python       1 hr 14 mins    ██████████████▓░░░░░░░░░░   58.31 %
+Markdown     45 mins         ████████▓░░░░░░░░░░░░░░░░   35.15 %
+CSV          4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+YAML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
 ```
 
 <!--END_SECTION:waka-->
