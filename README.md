@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 2 hrs 52 mins
+Total Time: 1 hr 51 mins
 
-Python     1 hr 45 mins    ███████████████▒░░░░░░░░░   60.99 %
-Markdown   45 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.28 %
-CSV        17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.21 %
-YAML       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python     1 hr 14 mins    ████████████████▓░░░░░░░░   66.34 %
+CSV        17 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.75 %
+Markdown   15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.03 %
+YAML       3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
