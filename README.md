@@ -47,10 +47,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 17 mins
+Total Time: 30 mins
 
-CSV      17 mins         █████████████████████████   99.97 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+CSV   30 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
