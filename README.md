@@ -47,9 +47,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 30 mins
+Total Time: 34 mins
 
-CSV   30 mins         █████████████████████████   100.00 %
+CSV   30 mins         ██████████████████████░░░   87.99 %
+TeX   4 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
 ```
 
 <!--END_SECTION:waka-->
