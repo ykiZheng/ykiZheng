@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 7 hrs 49 mins
+Total Time: 9 hrs 17 mins
 
-TeX              6 hrs 41 mins   █████████████████████▒░░░   85.43 %
-Markdown         58 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Python           4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
-textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+TeX              7 hrs 15 mins   ███████████████████▓░░░░░   78.17 %
+Markdown         1 hr 13 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Python           43 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 %
+JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+textmate         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+GitIgnore file   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
