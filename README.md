@@ -47,14 +47,14 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 31 hrs 44 mins
+Total Time: 30 hrs 49 mins
 
-TeX        19 hrs 20 mins  ███████████████▒░░░░░░░░░   60.95 %
-Python     9 hrs 14 mins   ███████▒░░░░░░░░░░░░░░░░░   29.09 %
-CSV        1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.18 %
-Markdown   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-BibTeX     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-XML        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+TeX        18 hrs 24 mins  ███████████████░░░░░░░░░░   59.74 %
+Python     9 hrs 15 mins   ███████▓░░░░░░░░░░░░░░░░░   30.04 %
+CSV        1 hr 38 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.33 %
+Markdown   36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+BibTeX     26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+XML        13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
