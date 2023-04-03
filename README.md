@@ -47,14 +47,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 14 hrs 24 mins
+Total Time: 11 hrs 39 mins
 
-Python              12 hrs 23 mins  █████████████████████▓░░░   86.09 %
-TeX                 58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.79 %
-Markdown            58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-IDEA_MODULE         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-BibTeX              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-LaTeX source file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python              10 hrs 50 mins  ███████████████████████▒░   93.06 %
+Markdown            48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
+LaTeX source file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+BibTeX              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
