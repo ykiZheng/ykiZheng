@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 27 hrs 11 mins
+Total Time: 25 hrs 12 mins
 
-Python                     25 hrs 52 mins  ███████████████████████▓░   95.17 %
-YAML                       43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-Markdown                   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
-Shell Script               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
-GitIgnore file             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python                     23 hrs 31 mins  ███████████████████████▒░   93.35 %
+YAML                       53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 %
+Markdown                   26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+Shell Script               17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+GitIgnore file             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 Bash                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
