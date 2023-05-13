@@ -47,14 +47,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 20 hrs 3 mins
+Total Time: 35 hrs 29 mins
 
-Python              16 hrs 58 mins  █████████████████████░░░░   84.66 %
-Markdown            2 hrs 1 min     ██▓░░░░░░░░░░░░░░░░░░░░░░   10.07 %
-Text                28 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
-YAML                13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
-LaTeX source file   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-TeX                 10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Python                     20 hrs 48 mins  ██████████████▓░░░░░░░░░░   58.61 %
+YAML                       5 hrs 27 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
+TeX                        4 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.55 %
+LaTeX source file          2 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
+Text                       1 hr 51 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.23 %
 ```
 
 <!--END_SECTION:waka-->
