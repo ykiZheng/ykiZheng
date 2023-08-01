@@ -46,14 +46,14 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
-Total Time: 33 mins
+```txt
+Total Time: 5 hrs 38 mins
 
-GitIgnore file      13 mins         ██████████░░░░░░░░░░░░░░░   40.34 %
-Markdown            10 mins         ███████▒░░░░░░░░░░░░░░░░░   29.57 %
-Python              9 mins          ███████░░░░░░░░░░░░░░░░░░   27.54 %
-LaTeX source file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-CSV/TSV             0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Java         2 hrs 41 mins   ████████████░░░░░░░░░░░░░   47.83 %
+JavaScript   1 hr 33 mins    ███████░░░░░░░░░░░░░░░░░░   27.78 %
+Vue.js       58 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.39 %
+TypeScript   23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
