@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 11 hrs 48 mins
+Total Time: 16 hrs 34 mins
 
-Java              6 hrs 22 mins   █████████████▒░░░░░░░░░░░   53.94 %
-XML               4 hrs 2 mins    ████████▓░░░░░░░░░░░░░░░░   34.17 %
-JavaScript        41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 %
-Properties        25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
-Java Properties   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Java              9 hrs 10 mins   ██████████████░░░░░░░░░░░   55.38 %
+XML               5 hrs 47 mins   ████████▓░░░░░░░░░░░░░░░░   34.97 %
+JavaScript        41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Properties        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
+Java Properties   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
 ```
 
 <!--END_SECTION:waka-->
