@@ -47,13 +47,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 mins
+Total Time: 0 secs
 
-Python            24 mins         ████████████████▒░░░░░░░░   65.08 %
-Java              7 mins          █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
-Other             3 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.67 %
-XML               0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-YAML              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
