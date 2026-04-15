@@ -47,13 +47,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 23 hrs 15 mins
+Total Time: 22 hrs 5 mins
 
-Java                                       19 hrs 35 mins  █████████████████████░░░░   84.19 %
-XML                                        2 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 %
-JSON                                       52 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
-PlantUML file                              37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
-GitIgnore file                             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Java                                       18 hrs 37 mins  █████████████████████░░░░   84.31 %
+XML                                        2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
+JSON                                       57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 %
+GitIgnore file                             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+YAML                                       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
