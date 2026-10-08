@@ -47,13 +47,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 8 hrs 10 mins
+Total Time: 0 secs
 
-Java       7 hrs 7 mins    █████████████████████▓░░░   87.22 %
-JSON       22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
-Text       17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.51 %
-Markdown   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Python     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
