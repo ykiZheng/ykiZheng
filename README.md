@@ -49,11 +49,11 @@ Here are some ideas to get you started:
 ```txt
 Total Time: 41 hrs 40 mins
 
-Java              30 hrs 5 mins   ██████████████████░░░░░░░   72.06 %
-Markdown          5 hrs 15 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.60 %
-XML               2 hrs 16 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.45 %
-Text              1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
-JSON              52 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Java              28 hrs 41 mins  █████████████████▒░░░░░░░   68.71 %
+Markdown          5 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
+XML               3 hrs 39 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.75 %
+Text              1 hr            ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+JSON              50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 ```
 
 <!--END_SECTION:waka-->
